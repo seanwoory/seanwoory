@@ -14,17 +14,17 @@ Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/
 
 - Undergraduate Internship Course for 3 Credits, [University of Seoul](https://www.uos.ac.kr/), Sep 2020 - Oct 2020
 - Research Volunteer, [University of Seoul](https://www.uos.ac.kr/), Oct 2020 - Feb 2021
-- Samsung Software Academy For Youth, [SSAFY](https://www.ssafy.com/), Mar 2023 - Jul 2023
-- [Samsung SDI](https://www.samsungsdi.co.kr/), Oct 2023 - Present
-  - Engineer, Li-ion Battery Cell Development, Oct 2023 - Present
+- [Software Samsung Software Academy For Youth](https://www.ssafy.com/), Mar 2023 - Jul 2023
+- Engineer, [Samsung SDI](https://www.samsungsdi.co.kr/), Oct 2023 - Present
+  - xEV Battery Cell Development, Oct 2023 - Present
 
 ## Research
 
-Study & design electrocatalysis (and other energy materials) based on computational methods, including sustainable energy application and material discovery.
+Study & design electrocatalysis (and other energy materials) purely based on computational methods, including sustainable energy application and material discovery.
 
 ## Publications
 
-- M.R. Ashwin Kishore, **Sungwoo Lee**, Jong Suk Yoo\*, Fundamental Limitation in Electrochemical Methane Oxidation to Alcohol: A Review and Theoretical Perspective on Overcoming It, _Advanced Science_, 2023, 10, 2301912, DOI: [10.1002/advs.202301912](https://doi.org/10.1002/advs.202301912). [Top 7% in materials science, multidisciplinary] [![Citations](https://citations.seanwoori.win/10.1002/advs.202301912)](https://badge.dimensions.ai/details/doi/10.1002/advs.202301912)
-- J. Lee.‡, **Sungwoo Lee‡**, C. Kim, Jong Suk Yoo\*, J. H. Moon\*, High-Efficiency Electrochemical Methane Conversion Using Fe2O3-based Catalysts Assisted by Thermochemical Active Oxygen, _Applied Catalysis B: Environmental_, 2024, available online, DOI: [10.1016/j.apcatb.2023.123633](https://doi.org/10.1016/j.apcatb.2023.123633). [Top 2% in chemical engineering] [![Citations](https://citations.seanwoori.win/10.1002/10.1016/j.apcatb.2023.123633)](https://badge.dimensions.ai/details/doi/10.1016/j.apcatb.2023.123633)
-- 
+- M.R. Ashwin Kishore, **Sungwoo Lee**, Jong Suk Yoo\*, Fundamental Limitation in Electrochemical Methane Oxidation to Alcohol: A Review and Theoretical Perspective on Overcoming It, _Advanced Science_, 2023, 10, 2301912, DOI: [10.1002/advs.202301912](https://doi.org/10.1002/advs.202301912). [Top 7% in materials science, multidisciplinary]
+- J. Lee.‡, **Sungwoo Lee‡**, C. Kim, Jong Suk Yoo\*, J. H. Moon\*, High-Efficiency Electrochemical Methane Conversion Using Fe2O3-based Catalysts Assisted by Thermochemical Active Oxygen, _Applied Catalysis B: Environmental_, 2024, available online, DOI: [10.1016/j.apcatb.2023.123633](https://doi.org/10.1016/j.apcatb.2023.123633). [Top 2% in chemical engineering]
+  
 [![Metrics](./github-metrics.svg)]
