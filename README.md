@@ -4,7 +4,7 @@
 
 M.S (2021~2023)  
 Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/)  
-Advisor : Jong Suk Yoo
+Advisor : [Jong Suk Yoo](http://yooresearch.wordpress.com)
 
 
 B.S. (2015~2021*)  
@@ -16,7 +16,7 @@ Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/
 
 - Undergraduate Internship Course for 3 Credits, [University of Seoul](https://www.uos.ac.kr/), Sep 2020 - Oct 2020
 - Research Volunteer, [University of Seoul](https://www.uos.ac.kr/), Oct 2020 - Feb 2021
-- [Software Samsung Software Academy For Youth](https://www.ssafy.com/), Mar 2023 - Jul 2023
+- Software developer, [Software Samsung Software Academy For Youth](https://www.ssafy.com/), Mar 2023 - Jul 2023
 - Engineer, [Samsung SDI](https://www.samsungsdi.co.kr/), Oct 2023 - Present
   - xEV Battery Cell Development, Oct 2023 - Present
 
