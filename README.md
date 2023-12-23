@@ -4,12 +4,18 @@
 
 M.S (2021~2023)
 
+
 Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/)
+
+
 Advisor : Jong Suk Yoo
 
 B.S. (2015~2021*)
 
+
 Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/)
+
+
 *Includes two full years of obligatory military service
 
 ## Work Experience
