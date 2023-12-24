@@ -2,7 +2,7 @@
 
 ## Education
 
-M.S (2021~2023)  
+M.S. (2021~2023)  
 Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/)  
 Advisor : [Jong Suk Yoo](http://yooresearch.wordpress.com)
 
