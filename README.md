@@ -22,7 +22,7 @@ Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/
 
 ## Research
 
-Study & design electrocatalysis (and other energy materials) purely based on computational methods, including sustainable energy application and material discovery.
+Study & design electrocatalysis (and other energy materials) based on computational methods, including sustainable energy application and material discovery.
 
 
 ## Publications
