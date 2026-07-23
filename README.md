@@ -17,7 +17,8 @@ Department of Chemical Engineering, [University of Seoul](https://www.uos.ac.kr/
 - Undergraduate Internship Course for 3 Credits, [University of Seoul](https://www.uos.ac.kr/), Sep 2020 - Oct 2020
 - Research Volunteer, [University of Seoul](https://www.uos.ac.kr/), Oct 2020 - Feb 2021
 - Software developer, [Samsung Software Academy For Youth](https://www.ssafy.com/), Jan 2023 - Jul 2023
-- xEV Battery Cell Development, [Samsung SDI](https://www.samsungsdi.co.kr/), Oct 2023 - Present
+- xEV Battery Cell Development, [Samsung SDI](https://www.samsungsdi.co.kr/), Oct 2023 - Jun 2026
+- Defect analysis, [SK Hynix](https://www.skhynix.com/), Jul 2026 - Present
 
 
 ## Research
